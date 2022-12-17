@@ -9,7 +9,7 @@ class Model:
         #self.normalize(text) 
     #Creating a function to run the model and classify the resume text
     def predict_out(self, text):
-        model = keras.models.load_model('/Users/nat/Desktop/ResumeParser-Classifier/Notebooks/model_weights/dnn-final.h5')
+        model = keras.models.load_model('./conv.h5')
         pred = model.predict(text)
         return pred
     #Creating a function to return a list of outputs based on the proabilities of each class
