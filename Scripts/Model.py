@@ -2,14 +2,17 @@ from tensorflow import keras
 from keras_preprocessing.text import Tokenizer
 from keras_preprocessing.sequence import pad_sequences
 import pandas as pd
-
+import os
 class Model:
     def __init__(self):
         pass
         #self.normalize(text) 
     #Creating a function to run the model and classify the resume text
     def predict_out(self, text):
-        model = keras.models.load_model('./conv.h5')
+        path = os.getcwd()
+        path = path.replace('\\', '/')
+        print(path)
+        model = keras.models.load_model(path + r"/Scripts/conv.h5")
         pred = model.predict(text)
         return pred
     #Creating a function to return a list of outputs based on the proabilities of each class
