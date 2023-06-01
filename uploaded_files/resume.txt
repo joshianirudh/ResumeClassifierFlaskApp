@@ -23494,4 +23494,660 @@ Deep Learning Specialization Stanford Online
 
 Machine Learning Stanford Online
 
+§ Github |
+
+(cid:239) LinkedIn |
+
+(cid:128) Portfolio | # joanirudh@outlook.com | H +919902486088
+
+Anirudh Joshi
+
+Education
+
+2019 - 2023 BTECH in CS at PESU
+2019
+2017
+
+Class 12th CBSE at AECS Magnolia
+Class 10th CBSE at PSBB LLA
+
+(GPA: 8.41/10.0)(88th percentile in CSE dept.)
+(90.2%)
+(9.2/10.0)
+
+Skills
+
+Languages
+ML, Data Science Libraries Tensorflow, Pytorch, Open CV, NLTK, Spacy, Pandas, Scikit-Learn
+
+Python, R, C, C++, Go Lang, Java, Javascript, Matlab
+
+Experience
+
+ML Intern at PESU Venture Labs
+
+July 2022 - present
+
+1) Weather prediction model for Frizzle Weather using incremental learning.
+2) Resume Parser, Recommend skill assessments to new users, Recommend candidates to recruiters on
+the basis of Job Description, Glassdoor Scraper to extract latest job skills using NER for Assertify
+3) Currently Working on a Journal Recommender engine given an Abstract of a paper and a Research
+Paper Summarization tool for Scholarit(A startup in the making that wants to provide services to research
+scholars)
+
+Academic Intern at National University Singapore
+
+June 2022
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+
+Research Intern at ISFCR PESU
+
+June 2021 - December 2021
+
+Built a tool to detect deepfake videos using Lucas-Kanade equation for optical flow calculation of facial
+landmarks and a Bi-LSTM model that achieved 96% accuracy.
+
+Projects
+
+AUTOML for Structured Data
+
+Demo Website
+
+Available till January 28th, please check my portfolio site for the website link after Jan 28th.
+
+Attention Based Evolution For Image Classification
+
+Soon to be published
+
+Built a novel approach that uses Convolution Block Attention and Neuroevolution to evolve CNN topolo-
+gies using genetic algorithms and the principles of mutation and crossover. The first evolutionary approach
+to incorporate an attention mechanism.
+
+Deblurring Using GANs
+
+Implemented DeblurGAN from scratch and trained on the GoPro dataset.
+
+Toxic Comments Detection
+
+Link to Code
+
+Link to Code
+
+Built a LSTM+CNN model to detect toxic comments on the Toxic Comments Detection Challenge on
+Kaggle made use of Wiki-News pretrained word-embeddings and Talos for hyperparameter optimization
+of the model.
+
+DeepFake Detection
+
+Link to Code
+
+Used DLib library to extract facial landmarks from image frames with high precision, then calculated the
+optical flow of facial landmarks using Lucas-Kanade equation and then passed through a Bi-LSTM model
+to achieve 96% accuracy.
+
+Multi-Label BERT Classifier For Resumes
+
+Link to Code
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+Image Captioning Flickr-8K
+
+Link to Code
+
+Used VGG-16 and Inception-V3 for feature extraction and then beam-search for caption prediction.
+
+Stock Market Prediction
+
+Link to Code
+
+Predicting stock prices using Time-Series Forecasting methods and ML models for Reliance stock.
+
+Email Spam Detection Using Spark Streaming
+
+Link to Code
+
+Classified emails in Enron spam detection dataset using SparkML in python. Data was live streamed in
+batches using Spark and ML models were trained in an incremental way to train each batch as it was
+streamed.
+
+Network Attacks Detection
+
+Detected Network Attacks using various classical ML algorithms on the UNSW dataset.
+Football Players Team Detection
+
+Link to Code
+
+Link to Code
+
+Built a multi-class classifer using Efficient Det to detect which team a player belonged to in an image
+frame, made dataset and labelled data using Roboflow.
+
+Pending Patents
+
+A System And Method For Clustering And Categorizing Large Datasets
+
+Developed a unique pipeline to categorize documents on the basis of their context and extract essential
+insights from document categories using the principles of BERT, autoencoders, clustering and Topic
+Modeling methods. The patent has been successfully filed in the Indian patent office and is currently
+pending approval.
+
+Society Memberships
+
+CODS (Community Of Data Science)
+
+-Conducted Online workshops on Webscraping Covid-19 Data to build a dashboard for data visualization
+during the Covid-19 lockdowns.
+-Did Network Attacks Detection as an individual project to gain entry into the club (linked above).
+-Built a mask detection tool as part of a group project.
+-Volunteered for multiple hackathon, datathon events conducted by the club for junior students.
+
+MCAOWA (NGO)
+
+Link to Certificate
+
+I have been a volunteer in cleanliness drives since my bachelor’s degree started.
+
+Certificates
+
+MTA (Microsoft Technology Associate) in Python
+
+Deep Learning Specialization Stanford Online
+
+Machine Learning Stanford Online
+
+§ Github |
+
+(cid:239) LinkedIn |
+
+(cid:128) Portfolio | # joanirudh@outlook.com | H +919902486088
+
+Anirudh Joshi
+
+Education
+
+2019 - 2023 BTECH in CS at PESU
+2019
+2017
+
+Class 12th CBSE at AECS Magnolia
+Class 10th CBSE at PSBB LLA
+
+(GPA: 8.41/10.0)(88th percentile in CSE dept.)
+(90.2%)
+(9.2/10.0)
+
+Skills
+
+Languages
+ML, Data Science Libraries Tensorflow, Pytorch, Open CV, NLTK, Spacy, Pandas, Scikit-Learn
+
+Python, R, C, C++, Go Lang, Java, Javascript, Matlab
+
+Experience
+
+ML Intern at PESU Venture Labs
+
+July 2022 - present
+
+1) Weather prediction model for Frizzle Weather using incremental learning.
+2) Resume Parser, Recommend skill assessments to new users, Recommend candidates to recruiters on
+the basis of Job Description, Glassdoor Scraper to extract latest job skills using NER for Assertify
+3) Currently Working on a Journal Recommender engine given an Abstract of a paper and a Research
+Paper Summarization tool for Scholarit(A startup in the making that wants to provide services to research
+scholars)
+
+Academic Intern at National University Singapore
+
+June 2022
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+
+Research Intern at ISFCR PESU
+
+June 2021 - December 2021
+
+Built a tool to detect deepfake videos using Lucas-Kanade equation for optical flow calculation of facial
+landmarks and a Bi-LSTM model that achieved 96% accuracy.
+
+Projects
+
+AUTOML for Structured Data
+
+Demo Website
+
+Available till January 28th, please check my portfolio site for the website link after Jan 28th.
+
+Attention Based Evolution For Image Classification
+
+Soon to be published
+
+Built a novel approach that uses Convolution Block Attention and Neuroevolution to evolve CNN topolo-
+gies using genetic algorithms and the principles of mutation and crossover. The first evolutionary approach
+to incorporate an attention mechanism.
+
+Deblurring Using GANs
+
+Implemented DeblurGAN from scratch and trained on the GoPro dataset.
+
+Toxic Comments Detection
+
+Link to Code
+
+Link to Code
+
+Built a LSTM+CNN model to detect toxic comments on the Toxic Comments Detection Challenge on
+Kaggle made use of Wiki-News pretrained word-embeddings and Talos for hyperparameter optimization
+of the model.
+
+DeepFake Detection
+
+Link to Code
+
+Used DLib library to extract facial landmarks from image frames with high precision, then calculated the
+optical flow of facial landmarks using Lucas-Kanade equation and then passed through a Bi-LSTM model
+to achieve 96% accuracy.
+
+Multi-Label BERT Classifier For Resumes
+
+Link to Code
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+Image Captioning Flickr-8K
+
+Link to Code
+
+Used VGG-16 and Inception-V3 for feature extraction and then beam-search for caption prediction.
+
+Stock Market Prediction
+
+Link to Code
+
+Predicting stock prices using Time-Series Forecasting methods and ML models for Reliance stock.
+
+Email Spam Detection Using Spark Streaming
+
+Link to Code
+
+Classified emails in Enron spam detection dataset using SparkML in python. Data was live streamed in
+batches using Spark and ML models were trained in an incremental way to train each batch as it was
+streamed.
+
+Network Attacks Detection
+
+Detected Network Attacks using various classical ML algorithms on the UNSW dataset.
+Football Players Team Detection
+
+Link to Code
+
+Link to Code
+
+Built a multi-class classifer using Efficient Det to detect which team a player belonged to in an image
+frame, made dataset and labelled data using Roboflow.
+
+Pending Patents
+
+A System And Method For Clustering And Categorizing Large Datasets
+
+Developed a unique pipeline to categorize documents on the basis of their context and extract essential
+insights from document categories using the principles of BERT, autoencoders, clustering and Topic
+Modeling methods. The patent has been successfully filed in the Indian patent office and is currently
+pending approval.
+
+Society Memberships
+
+CODS (Community Of Data Science)
+
+-Conducted Online workshops on Webscraping Covid-19 Data to build a dashboard for data visualization
+during the Covid-19 lockdowns.
+-Did Network Attacks Detection as an individual project to gain entry into the club (linked above).
+-Built a mask detection tool as part of a group project.
+-Volunteered for multiple hackathon, datathon events conducted by the club for junior students.
+
+MCAOWA (NGO)
+
+Link to Certificate
+
+I have been a volunteer in cleanliness drives since my bachelor’s degree started.
+
+Certificates
+
+MTA (Microsoft Technology Associate) in Python
+
+Deep Learning Specialization Stanford Online
+
+Machine Learning Stanford Online
+
+§ Github |
+
+(cid:239) LinkedIn |
+
+(cid:128) Portfolio | # joanirudh@outlook.com | H +919902486088
+
+Anirudh Joshi
+
+Education
+
+2019 - 2023 BTECH in CS at PESU
+2019
+2017
+
+Class 12th CBSE at AECS Magnolia
+Class 10th CBSE at PSBB LLA
+
+(GPA: 8.41/10.0)(88th percentile in CSE dept.)
+(90.2%)
+(9.2/10.0)
+
+Skills
+
+Languages
+ML, Data Science Libraries Tensorflow, Pytorch, Open CV, NLTK, Spacy, Pandas, Scikit-Learn
+
+Python, R, C, C++, Go Lang, Java, Javascript, Matlab
+
+Experience
+
+ML Intern at PESU Venture Labs
+
+July 2022 - present
+
+1) Weather prediction model for Frizzle Weather using incremental learning.
+2) Resume Parser, Recommend skill assessments to new users, Recommend candidates to recruiters on
+the basis of Job Description, Glassdoor Scraper to extract latest job skills using NER for Assertify
+3) Currently Working on a Journal Recommender engine given an Abstract of a paper and a Research
+Paper Summarization tool for Scholarit(A startup in the making that wants to provide services to research
+scholars)
+
+Academic Intern at National University Singapore
+
+June 2022
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+
+Research Intern at ISFCR PESU
+
+June 2021 - December 2021
+
+Built a tool to detect deepfake videos using Lucas-Kanade equation for optical flow calculation of facial
+landmarks and a Bi-LSTM model that achieved 96% accuracy.
+
+Projects
+
+AUTOML for Structured Data
+
+Demo Website
+
+Available till January 28th, please check my portfolio site for the website link after Jan 28th.
+
+Attention Based Evolution For Image Classification
+
+Soon to be published
+
+Built a novel approach that uses Convolution Block Attention and Neuroevolution to evolve CNN topolo-
+gies using genetic algorithms and the principles of mutation and crossover. The first evolutionary approach
+to incorporate an attention mechanism.
+
+Deblurring Using GANs
+
+Implemented DeblurGAN from scratch and trained on the GoPro dataset.
+
+Toxic Comments Detection
+
+Link to Code
+
+Link to Code
+
+Built a LSTM+CNN model to detect toxic comments on the Toxic Comments Detection Challenge on
+Kaggle made use of Wiki-News pretrained word-embeddings and Talos for hyperparameter optimization
+of the model.
+
+DeepFake Detection
+
+Link to Code
+
+Used DLib library to extract facial landmarks from image frames with high precision, then calculated the
+optical flow of facial landmarks using Lucas-Kanade equation and then passed through a Bi-LSTM model
+to achieve 96% accuracy.
+
+Multi-Label BERT Classifier For Resumes
+
+Link to Code
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+Image Captioning Flickr-8K
+
+Link to Code
+
+Used VGG-16 and Inception-V3 for feature extraction and then beam-search for caption prediction.
+
+Stock Market Prediction
+
+Link to Code
+
+Predicting stock prices using Time-Series Forecasting methods and ML models for Reliance stock.
+
+Email Spam Detection Using Spark Streaming
+
+Link to Code
+
+Classified emails in Enron spam detection dataset using SparkML in python. Data was live streamed in
+batches using Spark and ML models were trained in an incremental way to train each batch as it was
+streamed.
+
+Network Attacks Detection
+
+Detected Network Attacks using various classical ML algorithms on the UNSW dataset.
+Football Players Team Detection
+
+Link to Code
+
+Link to Code
+
+Built a multi-class classifer using Efficient Det to detect which team a player belonged to in an image
+frame, made dataset and labelled data using Roboflow.
+
+Pending Patents
+
+A System And Method For Clustering And Categorizing Large Datasets
+
+Developed a unique pipeline to categorize documents on the basis of their context and extract essential
+insights from document categories using the principles of BERT, autoencoders, clustering and Topic
+Modeling methods. The patent has been successfully filed in the Indian patent office and is currently
+pending approval.
+
+Society Memberships
+
+CODS (Community Of Data Science)
+
+-Conducted Online workshops on Webscraping Covid-19 Data to build a dashboard for data visualization
+during the Covid-19 lockdowns.
+-Did Network Attacks Detection as an individual project to gain entry into the club (linked above).
+-Built a mask detection tool as part of a group project.
+-Volunteered for multiple hackathon, datathon events conducted by the club for junior students.
+
+MCAOWA (NGO)
+
+Link to Certificate
+
+I have been a volunteer in cleanliness drives since my bachelor’s degree started.
+
+Certificates
+
+MTA (Microsoft Technology Associate) in Python
+
+Deep Learning Specialization Stanford Online
+
+Machine Learning Stanford Online
+
+§ Github |
+
+(cid:239) LinkedIn |
+
+(cid:128) Portfolio | # joanirudh@outlook.com | H +919902486088
+
+Anirudh Joshi
+
+Education
+
+2019 - 2023 BTECH in CS at PESU
+2019
+2017
+
+Class 12th CBSE at AECS Magnolia
+Class 10th CBSE at PSBB LLA
+
+(GPA: 8.41/10.0)(88th percentile in CSE dept.)
+(90.2%)
+(9.2/10.0)
+
+Skills
+
+Languages
+ML, Data Science Libraries Tensorflow, Pytorch, Open CV, NLTK, Spacy, Pandas, Scikit-Learn
+
+Python, R, C, C++, Go Lang, Java, Javascript, Matlab
+
+Experience
+
+ML Intern at PESU Venture Labs
+
+July 2022 - present
+
+1) Weather prediction model for Frizzle Weather using incremental learning.
+2) Resume Parser, Recommend skill assessments to new users, Recommend candidates to recruiters on
+the basis of Job Description, Glassdoor Scraper to extract latest job skills using NER for Assertify
+3) Currently Working on a Journal Recommender engine given an Abstract of a paper and a Research
+Paper Summarization tool for Scholarit(A startup in the making that wants to provide services to research
+scholars)
+
+Academic Intern at National University Singapore
+
+June 2022
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+
+Research Intern at ISFCR PESU
+
+June 2021 - December 2021
+
+Built a tool to detect deepfake videos using Lucas-Kanade equation for optical flow calculation of facial
+landmarks and a Bi-LSTM model that achieved 96% accuracy.
+
+Projects
+
+AUTOML for Structured Data
+
+Demo Website
+
+Available till January 28th, please check my portfolio site for the website link after Jan 28th.
+
+Attention Based Evolution For Image Classification
+
+Soon to be published
+
+Built a novel approach that uses Convolution Block Attention and Neuroevolution to evolve CNN topolo-
+gies using genetic algorithms and the principles of mutation and crossover. The first evolutionary approach
+to incorporate an attention mechanism.
+
+Deblurring Using GANs
+
+Implemented DeblurGAN from scratch and trained on the GoPro dataset.
+
+Toxic Comments Detection
+
+Link to Code
+
+Link to Code
+
+Built a LSTM+CNN model to detect toxic comments on the Toxic Comments Detection Challenge on
+Kaggle made use of Wiki-News pretrained word-embeddings and Talos for hyperparameter optimization
+of the model.
+
+DeepFake Detection
+
+Link to Code
+
+Used DLib library to extract facial landmarks from image frames with high precision, then calculated the
+optical flow of facial landmarks using Lucas-Kanade equation and then passed through a Bi-LSTM model
+to achieve 96% accuracy.
+
+Multi-Label BERT Classifier For Resumes
+
+Link to Code
+
+Built a multi-label classifier capable of classifying input resumes into ten IT roles using BERT and distilled
+BERT.
+Image Captioning Flickr-8K
+
+Link to Code
+
+Used VGG-16 and Inception-V3 for feature extraction and then beam-search for caption prediction.
+
+Stock Market Prediction
+
+Link to Code
+
+Predicting stock prices using Time-Series Forecasting methods and ML models for Reliance stock.
+
+Email Spam Detection Using Spark Streaming
+
+Link to Code
+
+Classified emails in Enron spam detection dataset using SparkML in python. Data was live streamed in
+batches using Spark and ML models were trained in an incremental way to train each batch as it was
+streamed.
+
+Network Attacks Detection
+
+Detected Network Attacks using various classical ML algorithms on the UNSW dataset.
+Football Players Team Detection
+
+Link to Code
+
+Link to Code
+
+Built a multi-class classifer using Efficient Det to detect which team a player belonged to in an image
+frame, made dataset and labelled data using Roboflow.
+
+Pending Patents
+
+A System And Method For Clustering And Categorizing Large Datasets
+
+Developed a unique pipeline to categorize documents on the basis of their context and extract essential
+insights from document categories using the principles of BERT, autoencoders, clustering and Topic
+Modeling methods. The patent has been successfully filed in the Indian patent office and is currently
+pending approval.
+
+Society Memberships
+
+CODS (Community Of Data Science)
+
+-Conducted Online workshops on Webscraping Covid-19 Data to build a dashboard for data visualization
+during the Covid-19 lockdowns.
+-Did Network Attacks Detection as an individual project to gain entry into the club (linked above).
+-Built a mask detection tool as part of a group project.
+-Volunteered for multiple hackathon, datathon events conducted by the club for junior students.
+
+MCAOWA (NGO)
+
+Link to Certificate
+
+I have been a volunteer in cleanliness drives since my bachelor’s degree started.
+
+Certificates
+
+MTA (Microsoft Technology Associate) in Python
+
+Deep Learning Specialization Stanford Online
+
+Machine Learning Stanford Online
+
 
